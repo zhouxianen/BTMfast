@@ -1,0 +1,60 @@
+file_i: 0
+testChar(onlyDisp): 162.png
+leftExetime_TM: 4
+rightExetime_TM: 3
+leftYcl: 260
+rightYcl: 685
+exetime_topLocation: 4
+bottomTopX_left: 190
+bottomTopX_right: 182
+
+file_i: 1
+testChar(onlyDisp): 163.png
+leftExetime_TM: 2
+rightExetime_TM: 2
+leftYcl: 250
+rightYcl: 680
+exetime_topLocation: 1
+bottomTopX_left: 190
+bottomTopX_right: 180
+
+file_i: 2
+testChar(onlyDisp): 204.png
+leftExetime_TM: 3
+rightExetime_TM: 2
+leftYcl: 260
+rightYcl: 680
+exetime_topLocation: 2
+bottomTopX_left: 192
+bottomTopX_right: 183
+
+file_i: 3
+testChar(onlyDisp): 304.png
+leftExetime_TM: 3
+rightExetime_TM: 2
+leftYcl: 255
+rightYcl: 685
+exetime_topLocation: 1
+bottomTopX_left: 192
+bottomTopX_right: 184
+
+file_i: 4
+testChar(onlyDisp): 380.png
+leftExetime_TM: 2
+rightExetime_TM: 2
+leftYcl: 255
+rightYcl: 680
+exetime_topLocation: 3
+bottomTopX_left: 194
+bottomTopX_right: 185
+
+file_i: 5
+testChar(onlyDisp): 394.png
+leftExetime_TM: 3
+rightExetime_TM: 2
+leftYcl: 250
+rightYcl: 685
+exetime_topLocation: 2
+bottomTopX_left: 190
+bottomTopX_right: 182
+
