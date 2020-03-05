@@ -64,7 +64,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="global\hcGetBodyPosition_global.cpp" />
     <ClCompile Include="mainLocBody.cpp" />
+    <ClCompile Include="readFiles\readFiles.cpp" />
+    <ClCompile Include="tm\hcGetBodyPosition_tm.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\BuildAll\CplusToolZXE\readFiles\readFiles.h" />
